@@ -2,6 +2,10 @@
 .pixi/*
 !.pixi/config.toml
 
+# Python
+*.pyc
+__pycache__/
+
 # Materials
 materials/
 
