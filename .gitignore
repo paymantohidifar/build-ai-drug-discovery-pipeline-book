@@ -4,3 +4,11 @@
 
 # Materials
 materials/
+
+# Raw data
+data/*
+!data/.gitkeep
+
+# Artifacts
+artifacts/*
+!artifacts/.gitkeep
