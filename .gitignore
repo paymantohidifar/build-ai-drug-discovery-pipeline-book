@@ -16,3 +16,6 @@ data/*
 # Artifacts
 artifacts/*
 !artifacts/.gitkeep
+
+# docs
+docs/personal_notes.md
